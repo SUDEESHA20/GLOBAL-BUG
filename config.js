@@ -12,7 +12,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 20
 }
-
+global.autoreact= "true"
 // Ganti Logo Disini
 global.painlogo = "http://telegra.ph/file/9a332c815ad31956d5ce6.jpg" 
 
